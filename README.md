@@ -1,1 +1,1 @@
-# Local-Storage-workshop
+# Ruby Miner
